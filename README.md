@@ -2,7 +2,7 @@
 
 This repository contains the codebase for the research paper:
 
-**"Understanding and Assessment of Spatio-Temporal Dynamics of Flooding Risk in Roads Fine-Scale Drainage Systems."**
+**"Large-scale flood risk analysis of culvert infrastructure serving 3000 catchments in New York State"**
 
 ## Overview
 
