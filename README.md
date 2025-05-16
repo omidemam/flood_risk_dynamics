@@ -10,7 +10,9 @@ This project investigates the spatio-temporal dynamics of flood risk within New 
 
 Some images of culverts from a field trip to upstate New York:
 
-![Alt text](images/culvert_1.png)
+![Alt text](iImage/culvert_1.png)
+![Alt text](iImage/culvert_2.png)
+
 
 ## Website:
 The results of this study are visually hosted on this website :
