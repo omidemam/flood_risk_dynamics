@@ -2,7 +2,7 @@
 
 This repository contains the codebase for the research paper:
 
-**"Large-scale flood risk analysis of culvert infrastructure serving 3000 catchments in New York State"**
+**Large-scale flood risk analysis of culvert infrastructure serving 3000 catchments in New York State**
 
 ## Overview
 
