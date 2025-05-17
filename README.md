@@ -65,6 +65,11 @@ BibTeX format:
   howpublished = {\url{https://github.com/omidemam/flood_risk_dynamics}},
 }
 
+
+## 📬 Contact
+
+For questions, feedback, or collaboration opportunities, please email me at: [omid.emamjomehzadeh@nyu.edu](mailto:omid.emamjomehzadeh@nyu.edu)
+
 ## 📬 Contact
 
 For questions, feedback, or collaboration opportunities, please email me at: [omid.emamjomehzadeh@nyu.edu](mailto:omid.emamjomehzadeh@nyu.edu)
