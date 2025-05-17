@@ -12,7 +12,7 @@ This project investigates the spatio-temporal dynamics of flood risk within New 
   <img src="Image/culvert_1.PNG" alt="Culvert 1" width="45%" />
   <img src="Image/culvert_2.PNG" alt="Culvert 2" width="25.5%" />
 </p>
-<p style="text-align: center; font-style: italic; font-size: 12px;">
+<p style="text-align: center; font-style: italic; font-size: 10px;">
   Figure: Field photographs of culverts observed during a site visit to Upstate New York.
 </p>
 
