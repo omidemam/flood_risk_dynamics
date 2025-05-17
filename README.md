@@ -65,7 +65,7 @@ BibTeX format:
   author       = {Omid Emamjomehzadeh, Omar Wani},
   title        = {Large-scale flood risk analysis of culvert infrastructure serving 2200 catchments in New York State},
   year         = {2025},
-  publisher    = {XXX},
-  journal      = {XXX},
+  publisher    = {Nature},
+  journal      = {Nature communications},
   howpublished = {\url{https://github.com/omidemam/flood_risk_dynamics}},
 }
