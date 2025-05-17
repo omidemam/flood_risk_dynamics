@@ -48,8 +48,24 @@ To run the analysis:
    ```bash
    git clone https:https://github.com/omidemam/flood_risk_dynamics.git
    cd flood_risk_dynamics
+   
 ## 📚 Citation
 
-If you use this repository in your research, please cite it as follows:
+If you use this repository in your research or projects, please cite it as follows:
 
+BibTeX format:
+
+```bibtex
+@misc{emamjomehzadeh2025flood,
+  author       = {Omid Emamjomehzadeh},
+  title        = {Flood Risk Dynamics},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/omidemam/flood_risk_dynamics}},
+}
+
+## 📬 Contact
+
+For questions, feedback, or collaboration opportunities, please email me at: [omid.emamjomehzadeh@nyu.edu](mailto:omid.emamjomehzadeh@nyu.edu)
 
