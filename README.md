@@ -12,7 +12,7 @@ Some images of culverts from a field trip to upstate New York:
 
 <p float="left">
   <img src="Image/culvert_1.PNG" alt="Culvert 1" width="45%" />
-  <img src="Image/culvert_2.PNG" alt="Culvert 2" width="20%" />
+  <img src="Image/culvert_2.PNG" alt="Culvert 2" width="25%" />
 </p>
 
 ## Website:
