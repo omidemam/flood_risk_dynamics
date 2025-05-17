@@ -14,8 +14,7 @@ This project investigates the spatio-temporal dynamics of flood risk within New 
 </p>
 <p style="text-align: center; font-style: italic; font-size: 14px;">
   Figure: Field photographs of culverts observed during a site visit to Upstate New York. 
-  Left: Large circular culvert in a rural setting. Right: Smaller culvert partially obstructed by vegetation.
-</p>
+  p>
 
 ## Website:
 The results of this study are visually hosted on this website :
