@@ -62,10 +62,10 @@ BibTeX format:
 
 ```bibtex
 @misc{emamjomehzadeh2025flood,
-  author       = {Omid Emamjomehzadeh},
-  title        = {Flood Risk Dynamics},
+  author       = {Omid Emamjomehzadeh, Omar Wani},
+  title        = {Large-scale flood risk analysis of culvert infrastructure serving 2200 catchments in New York State},
   year         = {2025},
-  publisher    = {GitHub},
-  journal      = {GitHub repository},
+  publisher    = {XXX},
+  journal      = {XXX},
   howpublished = {\url{https://github.com/omidemam/flood_risk_dynamics}},
 }
