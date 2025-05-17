@@ -70,5 +70,3 @@ BibTeX format:
   journal      = {GitHub repository},
   howpublished = {\url{https://github.com/omidemam/flood_risk_dynamics}},
 }
-
-
