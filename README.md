@@ -20,12 +20,11 @@ The results of this study are visually hosted on this website :
 
 ## Repository Contents
 
-- `Data preprocessing`:
-- `Watershed delineation`:
-- `Hydrologic model`: 
-- `Hydraulic model`: 
-- `Validation`:  
-- `Result`:
+- `Data preprocessing`: Prepares raw data for parallel computation by cleaning, formatting, and organizing it appropriately.
+- `Hydrologic model`: Performs watershed delineation, Curve Number (CN) calculation, and peak hydrologic flow estimation.
+- `Hydraulic model`: Calculates the hydraulic capacity of the culverts.
+- `Validation`:  Validates each component, including watershed delineation, CN values, peak flow estimations, and hydraulic capacity.
+- `Result`: Conducts risk assessment and visualizes both the temporal and spatial dynamics of the risk.
 
 ## Data Access
 
