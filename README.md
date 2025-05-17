@@ -61,7 +61,7 @@ If you use this repository in your research or projects, please cite it as follo
 BibTeX format:
 
 ```bibtex
-@misc{emamjomehzadeh2025flood,
+@misc{emamjomehzadeh and Wani (2025),
   author       = {Omid Emamjomehzadeh, Omar Wani},
   title        = {Large-scale flood risk analysis of culvert infrastructure serving 2200 catchments in New York State},
   year         = {2025},
