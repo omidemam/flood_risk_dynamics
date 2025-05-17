@@ -38,7 +38,6 @@ All input and output files required to run the code are hosted on **Zenodo**:
 Download and extract the files to the appropriate directories as outlined in the documentation within the repository.
 
 📁 **Figshare DOI**: *To be added*  
-_Replace this line with the actual link or DOI once available._
 
 ## Getting Started
 
