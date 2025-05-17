@@ -9,8 +9,8 @@ This repository contains the codebase for the research paper:
 This project investigates the spatio-temporal dynamics of flood risk within New York state road networks, focusing on the performance and behavior of large culvert drainage systems. It includes data preprocessing, hydrologic and hydraulic modeling, model validation, risk analysis, and visualization workflows used in the study.
 
 <p float="left">
-  <img src="Image/culvert_1.PNG" alt="Culvert 1" width="45%" />
-  <img src="Image/culvert_2.PNG" alt="Culvert 2" width="25.5%" />
+  <img src="Image/culvert_1.jpg" alt="Culvert 1" width="45%" />
+  <img src="Image/culvert_2.jpg" alt="Culvert 2" width="25.5%" />
 </p>
 <p style="text-align: center; font-style: italic; font-size: 10px;">
   Figure: Field photographs of culverts observed during a site visit to Upstate New York.
