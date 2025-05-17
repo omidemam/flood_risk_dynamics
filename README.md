@@ -14,7 +14,6 @@ p float="left">
 </p>
 <p style="text-align: center; font-style: italic; font-size: 14px;">
   Figure: Field photographs of culverts observed during a site visit to Upstate New York. 
-  Left: Large circular culvert in a rural setting. Right: Smaller culvert partially obstructed by vegetation.
 </p>
 
 ## Website:
