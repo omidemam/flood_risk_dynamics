@@ -48,3 +48,8 @@ To run the analysis:
    ```bash
    git clone https:https://github.com/omidemam/flood_risk_dynamics.git
    cd flood_risk_dynamics
+## 📚 Citation
+
+If you use this repository in your research, please cite it as follows:
+
+
