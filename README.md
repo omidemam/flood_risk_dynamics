@@ -2,7 +2,7 @@
 
 This repository contains the codebase for the research paper:
 
-**Flood risk dynamics]{Large-scale flood risk analysis of distributed stormwater infrastructure serving 2\,300 catchments in New York State**
+**Large-scale flood risk analysis of distributed stormwater infrastructure serving 2,300 catchments in New York State**
 
 ## Overview
 
