@@ -16,8 +16,8 @@ This project examines the spatiotemporal dynamics of flood risk within New York 
   Figure: Field photographs of culverts observed during a site visit to Upstate New York.
 </p>
 
-## Website:
-The results of this study are visually hosted on 👉 [https://omidemam.github.io/flood_risk_dynamics.github.io/](https://omidemam.github.io/flood_risk_dynamics.github.io/)
+<!--## Website:
+The results of this study are visually hosted on 👉 [https://omidemam.github.io/flood_risk_dynamics.github.io/](https://omidemam.github.io/flood_risk_dynamics.github.io/) -->
 
 ## Repository Contents
 
