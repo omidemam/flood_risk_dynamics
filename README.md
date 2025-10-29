@@ -2,11 +2,11 @@
 
 This repository contains the codebase for the research paper:
 
-**Large-scale flood risk analysis of culvert infrastructure serving 2200 catchments in New York State**
+**Flood risk dynamics]{Large-scale flood risk analysis of distributed stormwater infrastructure serving 2\,300 catchments in New York State**
 
 ## Overview
 
-This project investigates the spatio-temporal dynamics of flood risk within New York state road networks, focusing on the performance and behavior of large culvert drainage systems. It includes data preprocessing, hydrologic and hydraulic modeling, model validation, risk analysis, and visualization workflows used in the study.
+This project examines the spatiotemporal dynamics of flood risk within New York State's road networks, with a focus on the performance and behavior of large culvert drainage systems. It includes data preprocessing, hydrologic and hydraulic modeling, model validation, risk analysis, and visualization workflows used in the study.
 
 <p float="left">
   <img src="Image/culvert_2.jpg" alt="Culvert 1" width="45%" />
