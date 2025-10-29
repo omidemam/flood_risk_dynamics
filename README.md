@@ -84,7 +84,7 @@ BibTeX format:
 ```bibtex
 @misc{emamjomehzadehandWani(2025),
   author       = {Omid Emamjomehzadeh, Omar Wani},
-  title        = {Large-scale flood risk analysis of culvert infrastructure serving 2200 catchments in New York State},
+  title        = {Large-scale flood risk analysis of distributed stormwater infrastructure serving 2,300 catchments in New York State},
   year         = {2025},
   publisher    = {Nature},
   journal      = {Nature communications},
