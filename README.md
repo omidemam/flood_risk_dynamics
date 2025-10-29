@@ -31,11 +31,30 @@ The results of this study are visually hosted on 👉 [https://omidemam.github.i
 
 ### Input and Output Data
 
-All input and output files required to run the code are hosted on **Zenodo**:
+<!--All input and output files required to run the code are hosted on **Zenodo**:
 
-📁 **Zenodo DOI**: [10.5281/zenodo.15306498](https://doi.org/10.5281/zenodo.15306498)
+<!--📁 **Zenodo DOI**: [10.5281/zenodo.15306498](https://doi.org/10.5281/zenodo.15306498)
 
-Download and extract the files to the appropriate directories as outlined in the documentation within the repository.
+<!--Download and extract the files to the appropriate directories as outlined in the documentation within the repository.
+
+## 🗺️ Geospatial Datasets Used
+
+The following datasets were utilized in this study:
+
+| **Dataset Name** | **Reference** | **Usage / Description** |
+|------------------|----------------|--------------------------|
+| Culvert inventory | NYSDOT (2023) | Culvert identification, geometry, and structural attributes. |
+| 1-m and 10-m Digital Elevation Models (DEMs) | USGS (2021) | Watershed delineation and morphological feature extraction. |
+| Hydrologic Unit Code 12 (HUC 12) | NYS Department of State (2022) | Parallelization units for delineation and analysis. |
+| Streets, Railroads, and Streams | NYS ITS (2023) | Used to identify crossings and refine stream networks. |
+| Historical and Projected Precipitation Intensity-Duration-Frequency (IDF) Analyses | NOAA (2015); DeGaetano (2017) | For historical and future extreme precipitation estimation. |
+| Historical and Projected Land Cover | Dewitz (2023); Sohl (2018) | For curve number map generation. |
+| Hydrologic Soil Group (HSG) | Esri (2022) | For CN map derivation. |
+| Curve Number Map Product | Jaafar (2019) | Used for inter-product comparison. |
+| USGS Discharge Gages | Hodson (2023) | For validating watershed delineation and discharge computations. |
+
+For detailed dataset descriptions, see **Table 1, Section 1** of the supplementary material.
+
 
 📁 **Figshare DOI**: *To be added*  
 
