@@ -1,4 +1,4 @@
-# Flood Risk Dynamics
+# CRISIS-aversion (Conditional Risk In Stormwater Infrastructure Systems - aversion)
 
 This repository contains the codebase for the research paper:
 
