@@ -38,7 +38,7 @@ The results of this study are visually hosted on 👉 [https://omidemam.github.i
 Download and extract the files to the appropriate directories as outlined in the documentation within the repository. -->
 
 
-## 🗺️ Geospatial Datasets Used
+!<-- ## 🗺️ Geospatial Datasets Used
 
 The following datasets were utilized in this study:
 
@@ -58,7 +58,7 @@ For detailed dataset descriptions, see **Table 1, Section 1** of the supplementa
 
 ---
 
-📁 **Figshare DOI**: *Will be added after the paper publication*  
+📁 **Figshare DOI**: *Will be added after the paper publication*  -->
 
 ## Getting Started
 
