@@ -35,7 +35,7 @@ The results of this study are visually hosted on 👉 [https://omidemam.github.i
 
 📁 **Zenodo DOI**: [10.5281/zenodo.15306498](https://doi.org/10.5281/zenodo.15306498)
 
-Download and extract the files to the appropriate directories as outlined in the documentation within the repository. -->
+Download and extract the files to the appropriate directories as outlined in the documentation within the repository. 
 
 
  ## 🗺️ Geospatial Datasets Used
