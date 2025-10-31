@@ -1,4 +1,4 @@
-# CRISIS-A: Conditional Risk in Stormwater Infrastructure Systems — Aversion
+# CRISIS-Management: Conditional Risk in Stormwater Infrastructure Systems — Resilient Management
 
 This repository contains the codebase for the research paper:
 
