@@ -1,4 +1,4 @@
-# CRISIS-aversion (Conditional Risk In Stormwater Infrastructure Systems - aversion)
+# CRISIS-A: Conditional Risk in Stormwater Infrastructure Systems — Aversion
 
 This repository contains the codebase for the research paper:
 
